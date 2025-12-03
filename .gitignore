@@ -1,0 +1,13 @@
+# C#/.NET
+[Bb]in/
+[Oo]bj/
+.vs/
+.idea/
+*.user
+*.suo
+*.log
+*.tmp
+*.DS_Store
+
+# Inputs
+Inputs/*.txt
