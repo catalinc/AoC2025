@@ -3,7 +3,6 @@ namespace AoC2025.Solvers;
 
 using System;
 using System.Collections.Generic;
-using System.Linq;
 
 public class Day08 : BaseSolver
 {
