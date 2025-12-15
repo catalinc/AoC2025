@@ -55,7 +55,7 @@ public abstract class BaseSolver
         }
         catch (Exception ex)
         {
-            Console.WriteLine($"Part {partNum}: Error - {ex.Message}");
+            Console.WriteLine($"Part {partNum}: Error - {ex.ToString()}");
         }
     }
 
